@@ -12,8 +12,8 @@
 6. JDBC
 
 ####``How to run application application ``
-To run the application excecute  HiteshApplication.java 
-and the open http://localhost:1710/swagger-ui.html 
+To run the application excecute HiteshApplication.java 
+and open http://localhost:1710/swagger-ui.html 
 click on show/hide.
 
 ####``Dependencies used``
@@ -28,9 +28,14 @@ click on show/hide.
 8.  springfox-swagger2
 10. springfox-swagger-ui
 
+####``How to open Java Documentation``
 
+1. Open javadoc package
+2. Open index.html file
+3. Right click inside index.html and click on OPEN IN BROWSER
+4. Choose the browser where you want to open the javadoc
 
-####``Functianlities``
+####``Functionalities``
 These services can perform following functionality,
 
    1. Employee CRUD operations.
